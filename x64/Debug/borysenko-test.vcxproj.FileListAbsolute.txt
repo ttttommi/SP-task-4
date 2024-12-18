@@ -1,0 +1,4 @@
+D:\SP4\borysenko-test\x64\Debug\borysenko-test.vcxproj.CopyComplete
+D:\SP4\borysenko-test\x64\Debug\borysenko-test.exe
+D:\SP4\borysenko-test\x64\Debug\gtest.pdb
+D:\SP4\borysenko-test\x64\Debug\gtest_main.pdb
